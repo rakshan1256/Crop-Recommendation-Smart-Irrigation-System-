@@ -13,8 +13,6 @@ This project uses machine learning to recommend the best crop to grow based on s
 * Performed Exploratory Data Analysis (EDA) to visualize soil (N, P, K) and climate (temperature, rainfall) requirements for different crops.
 * Saved the final model, scaler, and encoder as `.pkl` files for use in a live application.
 
-**Model Comparison:**
-![Model Accuracy Graph](visualisations/model_comparison.png)
 
 ---
 
