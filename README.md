@@ -14,7 +14,7 @@ This project uses machine learning to recommend the best crop to grow based on s
 * Saved the final model, scaler, and encoder as `.pkl` files for use in a live application.
 
 **Model Comparison:**
-![Model Accuracy Graph](visualizations/5_model_comparison.png)
+![Model Accuracy Graph](visualisations/model_comparison.png)
 
 ---
 
